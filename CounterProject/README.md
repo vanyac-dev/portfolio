@@ -1,4 +1,5 @@
 #Counter Project
+
 A simple Android app that lets users increment a counter with a fun reward
 every 10 taps.
 
