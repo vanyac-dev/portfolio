@@ -1,4 +1,5 @@
 Vanya Christopher - Developer Portfolio
+
 Welcome to my personal portfolio repository!
 This repository contains a collection of my software projects, experiments, and learning journeys as a Computer Science student.
 
