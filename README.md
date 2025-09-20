@@ -6,7 +6,7 @@ This repository contains a collection of a few of my software projects, experime
 I'm a junior at university. My focus is software engineering, and I am currently studying Android mobile app development. I'm especially interested in
 creating intuitive, user-centered applications, websites, and building tools that are both practical and enjoyable to use.
 
-Projects:
+                                        Projects:
 
 **Library Simulator (In progress):
 
