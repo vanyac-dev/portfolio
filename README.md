@@ -7,6 +7,7 @@ I'm a junior at university. My focus is software engineering, and I am currently
 creating intuitive, user-centered applications, websites, and building tools that are both practical and enjoyable to use.
 
 Projects:
+
 **Library Simulator (In progress)
 This is a fun interactive story type game where the user can borrow/return books and movies.
 They can even create their own custom libraries with custom books.
