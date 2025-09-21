@@ -6,10 +6,10 @@ public class Movie {
     private boolean checkedOut;
     private boolean late;
     private int movieDurationInMinutes;
-    public Movie(String title, String genre, String director, int yearReleased, int movieDurationInMinutes) {
+    public Movie(String title, String director, String genre, int yearReleased, int movieDurationInMinutes) {
         this.title = title;
-        this.genre = genre;
         this.director = director;
+        this.genre = genre;
         this.yearReleased = yearReleased;
         this.checkedOut = false;
         this.late = false;

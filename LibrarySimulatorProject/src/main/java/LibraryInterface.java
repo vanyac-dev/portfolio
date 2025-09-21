@@ -22,9 +22,9 @@ public class LibraryInterface {
         tempBooks.add(book3);
         books = tempBooks;
         numMovies = 3;
-        Movie movie1 = new Movie("The Lion King",  "Animation, Adventure, Drama, Family, Musical", "Roger Allers and Rob Minkoff", 1994, 88);
-        Movie movie2 = new Movie("Beauty and the Beast", "Animation, Fantasy, Romance, Family, Musical", "Gary Trousdale and Kirk Wise", 1991, 84);
-        Movie movie3 = new Movie("Avengers: Infinity War", "Action, Adventure, Sci-Fi, Superhero", "Anthony Russo and Joe Russo", 2018, 149);
+        Movie movie1 = new Movie("The Lion King", "Roger Allers and Rob Minkoff", "Animation, Adventure, Drama, Family, Musical", 1994, 88);
+        Movie movie2 = new Movie("Beauty and the Beast", "Gary Trousdale and Kirk Wise","Animation, Fantasy, Romance, Family, Musical",  1991, 84);
+        Movie movie3 = new Movie("Avengers: Infinity War", "Anthony Russo and Joe Russo","Action, Adventure, Sci-Fi, Superhero",  2018, 149);
         List<Movie> tempMovies = new ArrayList<>();
         tempMovies.add(movie1);
         tempMovies.add(movie2);
