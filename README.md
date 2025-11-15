@@ -8,11 +8,6 @@ creating intuitive, user-centered applications, websites, and building tools tha
 
                                         Projects:
 
-**Library Simulator 📚 (In progress):
-
-This is a fun interactive story-style game where users can borrow and return books and movies.
-They can even create their own custom libraries with custom books.
-
 **Counter Project 🔢:
 
 This is a simple, fun Android app where the user taps a button to increment a counter. The app plays a launch sound and reward sound/notification every 10 taps. 
